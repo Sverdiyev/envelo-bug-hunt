@@ -2,6 +2,8 @@
 
 ## Bugs
 
+[Contribution guidelines for this project](task.png)
+
 ### JS
 
 1. line 26, 27 - calling gethero function before with a parameter, while the gethero function does not take any paramenters.
