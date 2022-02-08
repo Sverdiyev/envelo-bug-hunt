@@ -1,6 +1,6 @@
 # Test Envelo
 
-My approach could still be refactored and improved, but it is definitely way better than the provided in the task :) 
+My approach could still be refactored and improved, but it is definitely way better than the one provided in the task :) 
 
 ## Bugs
 
