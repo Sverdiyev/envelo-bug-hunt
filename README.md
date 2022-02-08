@@ -1,5 +1,7 @@
 # Test Envelo
 
+My approach could still be refactored and improved, but it is definitely way better than the provided in the task :) 
+
 ## Bugs
 
 [Contribution guidelines for this project](task.png)
