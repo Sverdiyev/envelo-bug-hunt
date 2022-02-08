@@ -1,0 +1,12 @@
+:root {
+	--color-black: black;
+}
+
+.hero-container {
+	width: 20%;
+}
+
+.hero-container > div {
+	display: flex;
+	justify-content: space-between;
+}
