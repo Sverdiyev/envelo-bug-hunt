@@ -35,9 +35,6 @@ _Hero_powerLevel = new WeakMap();
 const heroesNamesFromApi = ['hulk', 'spiderman', 'geralt'];
 const heroes = heroesNamesFromApi.map((hero) => new Hero(hero));
 heroCountSpan.innerText = heroes.length.toString();
-const powerUpButtonHandler = (e) => {
-    e.preventDefault();
-};
 const printHallOfFame = (heroes) => {
     heroes.map((hero) => {
         const heroElement = document.createElement('div');

@@ -29,9 +29,6 @@ const heroesNamesFromApi = ['hulk', 'spiderman', 'geralt'];
 const heroes = heroesNamesFromApi.map((hero) => new Hero(hero));
 heroCountSpan.innerText = heroes.length.toString();
 
-const powerUpButtonHandler = (e: MouseEvent) => {
-	e.preventDefault();
-};
 const printHallOfFame = (heroes: Hero[]) => {
 	heroes.map((hero) => {
 		const heroElement = document.createElement('div');
